@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+.nav_bg {
+    background-color: #A0D0E8!important;
+}
+   
+
+
+#principal {
+    /* background-image:  url('../images/fondo-claro1.png') !important; */
+    background-color: #97BCFD;
+    background-image: url('../images/0008.png');
+    background-size:auto;
+    background-repeat:repeat-x;
+    background-position: bottom;
+    width: 100%;
+    min-height: 100vh;
+}
+#productos {
+    background-image: url('../images/fondo-claro1.png')!important;
+    background-size:cover;
+    width: 100%;
+    min-height: 100vh;
+}
+#nosotros {
+    background-color: #A0D0E8!important;
+    background-image: url('../images/fondo-claro3.png')!important;
+    background-size:cover;
+    width: 100%;
+    min-height: 100vh;
+}
+#contacto {
+    background-image:  url('../images/fondo-claro2.png') !important;
+    background-size:cover;
+    width: 100%;
+    
+}
+h3 {
+    font-family: "Cinzel", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: #333;
+  }
+.text-banner-gray {
+    font-family: "Cinzel", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: #333;
+    text-shadow: 0px 0px 10px rgba(255, 255, 255, 1);
+}  
+.text-banner-white {
+    font-family: "Cinzel", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: #7331CF;
+    padding-top: 20px;
+    text-shadow: 0px 0px 10px rgba(255, 255, 255, 1);
+}  
+.text-seccion-name {
+    font-family: "Cinzel", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: #7331CF;
+    padding-top: 20px;
+} 
+
+.text-seccion {
+    font-family: "Cinzel", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: #333;
+    padding-top: 20px;
+} 
+
+.fondo-footer{
+    background-color: #A0D0E8!important;
+}
+.nav-link {
+    font-family: "Cinzel", serif !important;
+    font-size: 25px !important;
+    color: #7331CF !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+       
+}
+.nav-link:active {
+    font-family: "Cinzel", serif !important;
+    font-size: 25px !important;
+    color: #F908EB!important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+       
+}
+.nav-link-footer {
+    font-family: "Cinzel", serif !important;
+    font-size: 17px !important;
+    color: #7331CF!important;
+    text-decoration: none;
+       
+}
+.nav-link-footer:active {
+    font-family: "Cinzel", serif !important;
+    font-size: 17px !important;
+    color: #F908EB !important;
+    text-decoration: none;
+       
+}
+.whatsapp {
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:40px;
+    right:40px;
+    background-color:#25D366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    z-index:100;
+  }
+  
+  .whatsapp-icon {
+    margin-top:13px;
+  }
+
+  .social-icons i {
+    color: #7331CF;
+
+  }
+
+
+
+
+
+
